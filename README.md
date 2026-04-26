@@ -38,7 +38,7 @@ I'm a 2nd-year CS student who enjoys building things that actually work — from
 
 ## 🚀 Projects
 
-### [DukaanDesk](https://github.com/FarisDosani/DukaanDesk) — Python · Flask · SQL Server · HTML · CSS
+### DukaanDesk — Python · Flask · SQL Server · HTML · CSS
 > B2B SaaS platform for COD e-commerce automation
 
 - Built a full-stack web app for seller onboarding, order management, and buyer tracking across domain-scoped storefronts
@@ -55,7 +55,7 @@ I'm a 2nd-year CS student who enjoys building things that actually work — from
 
 ---
 
-### [Soundify](https://github.com/FarisDosani) — C++ · Data Structures
+### Soundify — C++ · Data Structures
 > Music streaming management system
 
 - Simulates a streaming platform using linked lists, queues, and trees
