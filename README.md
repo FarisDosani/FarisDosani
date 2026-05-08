@@ -47,12 +47,12 @@ I'm a 2nd-year CS student who enjoys building things that actually work — from
 
 ---
 
-### SENSE-AI — Python · AI/ML
-> Collaborative AI-powered application
+### SENSE-AI — Python · TensorFlow · Keras · Streamlit · NLTK
+> Deep learning sentiment engine for movie reviews
 
-- Applied core machine learning concepts in a practical, end-to-end Python system
-- Designed an intelligent pipeline for data processing and model-driven decision-making
-
+- Trained an **LSTM model with word embeddings** on the IMDb dataset (50,000 reviews) for binary sentiment classification — embeddings group semantically similar words so the model understands context, not just keywords
+- **Dual-engine backend:** neural network handles primary inference; VADER lexicon (NLTK) kicks in automatically as a fallback, keeping the app always functional
+- Deployed as a real-time **Streamlit app** with custom CSS and a live rotating IMDb sample feed
 ---
 
 ### Soundify — C++ · Data Structures
