@@ -27,12 +27,12 @@ I'm a 2nd-year CS student who enjoys building things that actually work — from
 
 ## 🛠 Tech Stack
 
-| | |
+| Area | Skills |
 |---|---|
-| **Languages** | Python, C, C++, HTML, CSS, Assembly (MASM / x86) |
-| **Databases** | SQL, Relational Database Design |
-| **Tools** | Git, GitHub, VS Code |
-| **Coursework** | AI, Data Structures, OOP, Algorithms, Databases, Computer Organisation & Assembly |
+| **Languages** | Python · C · C++ · x86 Assembly (MASM) |
+| **Databases** | SQL Server · T-SQL · Stored procedures · Schema normalization |
+| **CS Fundamentals** | Data structures · OOP · Algorithms · OS concepts |
+| **Tools** | Git · GitHub · VS Code |
 
 ---
 
