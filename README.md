@@ -7,7 +7,7 @@
 **Computer Science @ FAST NUCES, Karachi**  
 I build reliable backend systems and explore how to make AI applications useful in practice.
 
-<a href="mailto:farisaltafdosani13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=farisaltafdosani13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/faris-altaf-24714a292/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/FarisDosani"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <img src="https://img.shields.io/badge/Karachi%2C%20Pakistan-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location: Karachi, Pakistan" />
@@ -131,7 +131,7 @@ Seller onboarding, order management, storefront workflows, authentication, store
 **Interested in working together?**  
 Open to AI/ML, backend engineering, and research collaborations.
 
-<a href="mailto:farisaltafdosani13@gmail.com">Email me</a> · <a href="https://www.linkedin.com/in/faris-altaf-24714a292/">Connect on LinkedIn</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=farisaltafdosani13@gmail.com">Email me</a> · <a href="https://www.linkedin.com/in/faris-altaf-24714a292/">Connect on LinkedIn</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=85&section=footer" alt="" width="100%" />
 
